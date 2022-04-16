@@ -1,2 +1,2 @@
-# Simulasi_Gempa
+# Simulasi Gempa
 Pada bagian ini akan dilakukan simulasi gempa, menggunakan model dengan karakteristik tertentu dan melihat stress model tiap waktu. Kali ini akan dilakukan simulasi gempa berdasarkan persamaan penjalaran gelombang dengan metode turunan numerik finite difference. Model dengan dimensi tertentu memiliki beberapa parameter seperti kecepatan gelombang p dan s, massa jenis medium. Pada script ini digunakan boundary yang bersifat absorbing (absorbing boundary) atau bersifat menyerap energi.
